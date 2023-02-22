@@ -1,2 +1,3 @@
 # Cpp-
-It contains- inheritance, class, polymorphism, function overloading, template, 
+It contains- inheritance, class, polymorphism, function overloading, template etc...
+
