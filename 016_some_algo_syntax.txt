@@ -1,0 +1,9 @@
+//1D vector
+
+sort(vec.begin(), vec.end())
+
+//sort points according to x
+points - 2D vector:
+  vector<vector<int>> points(m, vector<int> (0, 2))
+  
+       sort(points.begin(), points.end(), [](auto &a, auto &b){ return a < b;});
